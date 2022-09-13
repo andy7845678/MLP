@@ -48,7 +48,3 @@ plt.xlabel('Epochs')
 plt.ylabel('Loss')
 plt.show()
 sess.close()
-
-
-
-#testtesttest
